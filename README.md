@@ -20,7 +20,8 @@ cd to Elevator :
 
 python run.py
 
-Imporvements:
+# Imporvements:
+
 Errors.
 
 User input on current floor number
